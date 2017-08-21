@@ -1,0 +1,46 @@
+<component>
+    <id>org.mozilla.Firefox</id>
+    <metadata_license>CC-BY-3.0</metadata_license>
+    <name>Firefox</name>
+    <summary>A fast and feature-rich open source browser</summary>
+    <description>
+        <p>Firefox lets you browse the web faster, safer, and easier.</p>
+        <p><ul>
+            <li>Optimized for efficient and speedy browsing</li>
+            <li>Sync your bookmarks and history with Firefox Sync</li>
+            <li>Use thousands of themes and extensions to customize your browsing experience</li>
+            <li>Thorough privacy options include Private Browsing, Tracking Protection, and advanced options</li>
+         </ul></p>
+     </description>
+     <categories>
+        <category>Network</category>
+        <category>WebBrowser</category>
+     </categories>
+     <url type="homepage">https://www.mozilla.org/firefox</url>
+     <url type="bugtracker">https://bugzilla.mozilla.org</url>
+     <url type="faq">https://support.mozilla.org/kb/frequently-asked-questions</url>
+     <url type="help">https://support.mozilla.org/products/firefox</url>
+     <url type="donation">https://donate.mozilla.org</url>
+     <url type="translate">https://l10n.mozilla.org</url>
+     <mimetypes>
+         <mimetype>text/html</mimetype>
+         <mimetype>text/xml</mimetype>
+         <mimetype>text/plain</mimetype>
+         <mimetype>application/xhtml+xml</mimetype>
+         <mimetype>image/png</mimetype>
+         <mimetype>image/gif</mimetype>
+         <mimetype>image/jpeg</mimetype>
+         <mimetype>application/xml</mimetype>
+         <mimetype>application/vnd.mozilla.xul+xml</mimetype>
+         <mimetype>application/rss+xml</mimetype>
+         <mimetype>application/rdf+xml</mimetype>
+     </mimetypes>
+     <project_license>MPL-2.0</project_license>
+     <developer_name>Mozilla</developer_name>
+     <suggests>
+         <id>org.mozilla.FirefoxNightly</id>
+         <id>org.mozilla.Thunderbird</id>
+         <id>org.chromium.ChromiumBrowser</id>
+     </suggests>
+ </component>
+            
