@@ -24,7 +24,7 @@ An app's `install.xml` file contains all supported installation methods of the a
 <official-repository>
     <distro-name> <!-- "distributor id" in 'lsb_release -a' --> </distro-name>
     <distro-version> <!-- "codename" in 'lsb_release -a' --> </distro-version> 
-    <url> <!-- url of the repository --> </url>
+    <url> <!-- url or name of repository --> </url>
     <component> <!-- the debian/ubuntu component (eg main, contrib, or multiverse) --> </component>
 <official-repository>
 <repository>
