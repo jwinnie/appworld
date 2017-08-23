@@ -1,4 +1,6 @@
 # appworld
+![software store icon](https://cdn.rawgit.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/software-store.svg)
+
 AppWorld is a central catalog of all Linux GUI apps. AppWorld does not discriminate between toolkits (GKT+/QT/Electron) and does not hold apps to a UI/UX standard. AppWorld apps are categorized and contain install scripts/instructions for most package managers and cross-platform distribution methods.
 
 ## Please Contribute
