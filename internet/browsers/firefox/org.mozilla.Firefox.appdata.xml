@@ -37,10 +37,5 @@
      </mimetypes>
      <project_license>MPL-2.0</project_license>
      <developer_name>Mozilla</developer_name>
-     <suggests>
-         <id>org.mozilla.FirefoxNightly</id>
-         <id>org.mozilla.Thunderbird</id>
-         <id>org.chromium.ChromiumBrowser</id>
-     </suggests>
  </component>
             
