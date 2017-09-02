@@ -1,0 +1,24 @@
+<component>
+  <id>org.chromium.Chromium</id>
+  <metadata_license>CC-BY-3.0</metadata_license>
+  <name>Chromium</name>
+  <summary>An officially supported, free and open source version of Chrome</summary>
+  <description>
+    <p>Chromium is a feature-packed, lightning-fast browser brought to you by Google.</p>
+    <p><ul>
+      <li>Complete Google integration</li>
+      <li>Thousands of themes and extensions</li>
+      <li>Chrome Web Store allows you to add web apps to your desktop</li>
+      <li>Multiple profiles with isolated history, bookmarks, and data including Guest and Incognito for private browsing</li>
+      <li>Cutting-edge technology lets you browse faster and safer</li>
+    </ul></p>
+  </description>
+  <categories>
+    <category>Network</category>
+    <category>WebBrowser</category>
+  </categories>
+  <url type="homepage">https://www.google.com/chrome/browser/desktop/index.html</url>
+  <url type="bugtracker">https://crbug.com/wizard</url>
+  <url type="faq">https://support.google.com/chrome</url>
+  <developer_name>Gogole</developer_name>
+</component>
